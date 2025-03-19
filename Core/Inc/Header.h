@@ -139,7 +139,6 @@ extern uint8_t header;
 extern uint8_t footer;
 extern uint16_t time_c;
 extern bool tx_busy;
-extern int MAX_DATA_COUNT;
 
 extern volatile uint8_t sensor_ready;
 #endif
